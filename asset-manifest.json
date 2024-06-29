@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movie-booking-frontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/movie-booking-frontend/static/js/main.e38c89a2.chunk.js",
+    "main.js.map": "/movie-booking-frontend/static/js/main.e38c89a2.chunk.js.map",
+    "runtime~main.js": "/movie-booking-frontend/static/js/runtime~main.04db6dd4.js",
+    "runtime~main.js.map": "/movie-booking-frontend/static/js/runtime~main.04db6dd4.js.map",
+    "static/js/2.8680bc2d.chunk.js": "/movie-booking-frontend/static/js/2.8680bc2d.chunk.js",
+    "static/js/2.8680bc2d.chunk.js.map": "/movie-booking-frontend/static/js/2.8680bc2d.chunk.js.map",
+    "static/js/3.69ba5426.chunk.js": "/movie-booking-frontend/static/js/3.69ba5426.chunk.js",
+    "static/js/3.69ba5426.chunk.js.map": "/movie-booking-frontend/static/js/3.69ba5426.chunk.js.map",
+    "index.html": "/movie-booking-frontend/index.html",
+    "precache-manifest.b1a1147cd2fdf7efcb8c3f89b67751cd.js": "/movie-booking-frontend/precache-manifest.b1a1147cd2fdf7efcb8c3f89b67751cd.js",
+    "service-worker.js": "/movie-booking-frontend/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/movie-booking-frontend/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
