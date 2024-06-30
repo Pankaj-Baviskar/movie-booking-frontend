@@ -10,7 +10,7 @@ const Login = () => {
   const onSubmit = async e => {
     e.preventDefault();
     try {
-      const res = await axios.post('http://localhost:5000/api/auth/login', formData);
+      const res = await axios.post('https://movie-booking-backend.onrender.com/api/auth/login', formData);
       console.log(res.data);
     } catch (err) {
       console.error(err.response.data);
